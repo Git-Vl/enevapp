@@ -1,0 +1,9 @@
+{
+  "id": "events1",
+  "discipline": "Development",
+  "imgSrc": "img1",
+  "eventsHeader": "header1",
+  "eventIsSeries": true,
+  "dates": "20-23 Nov. 2023",
+  "location": "Tower 2.4 + 2.5"
+}

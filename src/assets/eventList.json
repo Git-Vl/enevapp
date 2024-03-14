@@ -1,0 +1,30 @@
+[
+  {
+    "eventId": "1",
+    "eventName": "name1",
+    "eventImg": "img3",
+    "eventDate": "20 Nov. 2023",
+    "eventLocation": "Tower 2.4"
+  },
+  {
+    "eventId": "2",
+    "eventName": "name2",
+    "eventImg": "img4",
+    "eventDate": "21 Nov. 2023",
+    "eventLocation": "Tower 2.5"
+  },
+  {
+    "eventId": "3",
+    "eventName": "name3",
+    "eventImg": "img3",
+    "eventDate": "22 Nov. 2023",
+    "eventLocation": "Tower 2.5"
+  },
+  {
+    "eventId": "4",
+    "eventName": "name4",
+    "eventImg": "img4",
+    "eventDate": "23 Nov. 2023",
+    "eventLocation": "Tower 2.4"
+  }
+]

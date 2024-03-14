@@ -1,0 +1,29 @@
+.eventDiv {
+  font-family: "Lucida Console", monospace;
+  max-width: 25em;
+  margin-bottom: 4em;
+  display: block;
+}
+.eventHeader {
+  font-size: x-large;
+  font-weight: bold;
+  margin-bottom: 0.3em;
+}
+.icon {
+  max-width: 2em;
+}
+.devide {
+  border-bottom: 1px solid #cfcfcf;
+  margin: 0 10px;
+}
+.mainImg img {
+  width: 25em;
+  border-radius: 1.5em 1.5em 0 0;
+  height: 15em;
+}
+.centered {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  min-height: 2.5em;
+}
